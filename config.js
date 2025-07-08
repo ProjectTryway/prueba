@@ -18,14 +18,14 @@
 config.language = "english"
 
 // Use an image for the logo instead of text
-config.logo_use_image = true
+config.logo_use_image = false
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = ""
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -36,12 +36,12 @@ config.logo_center = false
 
 // Display current map and gamemode?
 // "true" or "false"
-config.logo_show_info = true
+config.logo_show_info = false
 
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -67,9 +67,7 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"background1.jpg",
-	"background2.jpg",
-	"background3.jpg",
+	"proyectobleach.png"
 ]
 
 // (Image-background only)
@@ -97,11 +95,11 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
-config.music_show = true
+config.music_show = false
 
 // Music playlist
 // Add as many youtube ids/urls or audio files you want
@@ -144,9 +142,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
-	"Customize your loading screen by editing the config file",
-	"Enjoy!",
+	"",
 ]
 
 // Random message order?
