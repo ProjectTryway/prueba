@@ -67,7 +67,7 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"gammawallpaper.png"
+	"gamma_logo_v2.png"
 ]
 
 // (Image-background only)
@@ -161,4 +161,5 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
