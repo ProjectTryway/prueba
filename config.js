@@ -99,7 +99,7 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
@@ -153,6 +153,7 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
 
 
