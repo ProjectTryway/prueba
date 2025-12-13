@@ -67,10 +67,11 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"star_wars_1.png",
-	"star_wars_2.png",
-	"star_wars_3.png",
-	"star_wars_4.png"
+	"1.png",
+	"2.png",
+	"3.png",
+	"4.png",
+	"5.png"
 ]
 
 // (Image-background only)
@@ -164,6 +165,7 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
 
 
