@@ -99,7 +99,7 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = false
+config.music_enable = true
 
 // Display current music name?
 // "true" or "false"
@@ -112,20 +112,8 @@ config.music_show = false
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Jason Shaw - Sideways Samba - Audionautix.com",
-		file: "sideways_samba.ogg",
-	},
-	{
-		name: "Devil Survivor 2 - Exploration",
-		youtube: "https://www.youtube.com/watch?v=Zyu-BSdma3g",
-	},
-	{
-		name: "VA-11 Hall-A - Every Day Is Night",
-		youtube: "https://youtu.be/H-AfGh8gmiQ",
-	},
-	{
-		name: "Sonic Mania - Comfort Zone",
-		youtube: "f4CBQ9nnQSY",
+		name: "Intro Tryway",
+		file: "intro_tryway.ogg",
 	},
 ]
 
@@ -165,6 +153,7 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
 
 
