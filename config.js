@@ -99,7 +99,7 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = false
+config.music_enable = true
 
 // Display current music name?
 // "true" or "false"
@@ -113,7 +113,7 @@ config.music_show = false
 config.music_playlist = [
 	{
 		name: "Intro Tryway",
-		file: "intro_tryway.ogg",
+		file: "project_tryway.ogg",
 	},
 ]
 
@@ -153,6 +153,7 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
 
 
