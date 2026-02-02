@@ -78,7 +78,8 @@ config.background_images = [
 	"project_tryway_9.png",
 	"project_tryway_10.png",
 	"project_tryway_11.png",
-	"project_tryway_12.png"
+	"project_tryway_12.png",
+	"project_tryway_13.png"
 ]
 
 // (Image-background only)
@@ -160,6 +161,7 @@ config.messages_fade_duration = 1000
 // Can be useful for finding errors
 // "true" or "false"
 config.errors_show_ingame = true
+
 
 
 
