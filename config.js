@@ -67,19 +67,13 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"project_tryway_1.png",
-	"project_tryway_2.png",
-	"project_tryway_3.png",
-	"project_tryway_4.png",
-	"project_tryway_5.png",
-	"project_tryway_6.png",
-	"project_tryway_7.png",
-	"project_tryway_8.png",
-	"project_tryway_9.png",
-	"project_tryway_10.png",
-	"project_tryway_11.png",
-	"project_tryway_12.png",
-	"project_tryway_13.png"
+	"phase2_01.png",
+	"phase2_02.png",
+	"phase2_03.png",
+	"phase2_04.png",
+	"phase2_05.png",
+	"phase2_06.png",
+	"phase2_07.png",
 ]
 
 // (Image-background only)
@@ -107,7 +101,7 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
